@@ -16,8 +16,8 @@ function Navbar() {
                     </ul>
                 </div>
                 <div className="nav-button">
-                    <button className="btn"><a href="#">Sign-up<i className="fa-solid fa-arrow-right"></i></a></button>
-                    <button className="btn"><a href="#">Log-in<i className="fa-solid fa-arrow-right"></i></a></button>
+                    <button className="btn"><a href="#">Signup</a></button>
+                    <button className="btn"><a href="#">Login</a></button>
             </div>
     </nav>
   )
